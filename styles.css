@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    font-family: 'montserrat', 'sans-serif';
+    background-color: #292929;
+    color:white;
+}
+
+.title {
+    text-align: center;
+}
+
+.name {
+    display:flex;
+    justify-content:center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.nim {
+    display:flex;
+    justify-content:center;
+    font-size: 1.5em;
+    font-weight: 300;
+
+}
+
+.section {
+    font-size: 1.5em;
+    
+}
+
+.school {
+    color: white;
+}
+
+.ps {
+
+}
